@@ -1,0 +1,224 @@
+fullname gender birthdate 
+snils inn 
+id_doc birthplace addresses 
+vehicles mobile email 
+drivers_licence_doc 
+foreign_passport_doc 
+ils_doc 
+history_passport_doc 
+paternity_cert_doc 
+change_fullname_cert_doc 
+divorce_cert_doc 
+marriage_cert_doc
+birth_cert_doc
+payments_egisso
+pre_retirement_age
+electronic_workbook 
+ndfl_person
+pension_reference
+vehicle_reg_cert_doc
+fullname gender birthdate 
+snils inn 
+id_doc birthplace addresses 
+vehicles mobile email 
+drivers_licence_doc 
+foreign_passport_doc 
+ils_doc 
+history_passport_doc 
+paternity_cert_doc 
+change_fullname_cert_doc 
+divorce_cert_doc 
+marriage_cert_doc
+birth_cert_doc
+payments_egisso
+pre_retirement_age
+electronic_workbook 
+ndfl_person
+pension_reference
+vehicle_reg_cert_doc
+fullname gender birthdate 
+snils inn 
+id_doc birthplace addresses 
+mobile email ils_doc 
+history_passport_doc 
+paternity_cert_doc 
+change_fullname_cert_doc 
+divorce_cert_doc 
+marriage_cert_doc
+birth_cert_doc
+fullname gender birthdate 
+inn id_doc birthplace 
+mobile email
+history_passport_doc
+fullname gender birthdate 
+snils inn 
+id_doc birthplace addresses 
+mobile email 
+ils_doc 
+history_passport_doc 
+paternity_cert_doc 
+change_fullname_cert_doc 
+divorce_cert_doc 
+marriage_cert_doc
+birth_cert_doc
+pre_retirement_age
+fullname birthdate snils 
+inn id_doc birthplace 
+addresses
+pre_retirement_age
+fullname gender birthdate 
+snils inn 
+id_doc birthplace addresses 
+vehicles mobile email 
+drivers_licence_doc 
+ils_doc 
+history_passport_doc 
+paternity_cert_doc 
+change_fullname_cert_doc 
+divorce_cert_doc 
+marriage_cert_doc
+birth_cert_doc
+vehicle_reg_cert_doc
+fullname mobile email
+fullname gender birthdate 
+snils inn 
+id_doc birthplace addresses 
+vehicles mobile email 
+drivers_licence_doc 
+foreign_passport_doc 
+ils_doc 
+history_passport_doc 
+paternity_cert_doc 
+change_fullname_cert_doc 
+divorce_cert_doc 
+marriage_cert_doc
+birth_cert_doc
+payments_egisso
+pre_retirement_age
+electronic_workbook 
+ndfl_person
+pension_reference
+vehicle_reg_cert_doc
+fullname
+gender
+birthdate
+snils
+inn
+id_doc
+birthplace
+addresses
+mobile
+email
+ils_doc
+history_passport_doc
+electronic_workbook 
+ndfl_person
+pension_reference
+payments_egisso
+fullname
+gender
+birthdate
+snils
+inn
+id_doc
+birthplace
+addresses
+vehicles
+mobile
+email
+drivers_licence_doc
+foreign_passport_doc
+ils_doc 
+history_passport_doc
+paternity_cert_doc
+change_fullname_cert_doc
+divorce_cert_doc
+marriage_cert_doc
+birth_cert_doc
+electronic_workbook
+ndfl_person
+pension_reference
+payments_egisso
+pre_retirement_age
+vehicle_reg_cert_doc
+change_fullname_cert_doc
+divorce_cert_doc
+marriage_cert_doc
+birth_cert_doc
+electronic_workbook
+ndfl_person
+pension_reference
+payments_egisso
+pre_retirement_age
+vehicle_reg_cert_doc
+payments_egisso
+vehicle_reg_cert_doc
+fullname
+gender
+birthdate
+snils
+inn
+id_doc
+birthplace
+addresses
+vehicles
+mobile
+email
+drivers_licence_doc
+foreign_passport_doc
+ils_doc 
+history_passport_doc
+paternity_cert_doc
+change_fullname_cert_doc
+divorce_cert_doc
+marriage_cert_doc
+birth_cert_doc
+electronic_workbook 
+ndfl_person
+pension_reference
+payments_egisso
+pre_retirement_age
+vehicle_reg_cert_doc
+fullname
+gender
+birthdate
+snils
+inn
+id_doc
+birthplace
+addresses
+mobile
+email
+electronic_workbook
+pension_reference
+payments_egisso
+fullname
+gender
+birthdate
+snils
+inn
+id_doc
+birthplace
+addresses
+vehicles
+mobile
+email
+drivers_licence_doc
+foreign_passport_doc
+ils_doc 
+history_passport_doc
+paternity_cert_doc
+change_fullname_cert_doc
+divorce_cert_doc
+marriage_cert_doc
+birth_cert_doc
+electronic_workbook
+ndfl_person
+pension_reference
+payments_egisso
+family_assets_balance
+vehicle_reg_cert_doc
+pension_reference
+payments_egisso
+family_assets_balance
+vehicle_reg_cert_doc
